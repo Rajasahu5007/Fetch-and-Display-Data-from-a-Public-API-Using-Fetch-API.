@@ -41,7 +41,7 @@ project-folder/
 │── README.md # Documentation
 
 📸 Screenshot
-
+(<img width="1917" height="884" alt="Image" src="https://github.com/user-attachments/assets/18a6643a-98ea-451a-90e7-9a291fb23e37" />)
 📚 Learning Outcomes
 
 Understanding Fetch API for making HTTP requests
